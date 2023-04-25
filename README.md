@@ -10,6 +10,9 @@ top() Returns the top element of the stack.
 isEmpty() returns true if stack is empty else false.
 size() returns the size of stack.
 
+![image](https://user-images.githubusercontent.com/124857385/234316572-3467b949-bbe0-4dff-a98a-0c7a555bbe62.png)
+
+
 Applications of the stack:
 Infix to Postfix /Prefix conversion
 Redo-undo features at many places like editors, photoshop.
